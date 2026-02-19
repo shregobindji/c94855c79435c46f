@@ -1,0 +1,5 @@
+Player URL:
+https://shregobindji.github.io/player/?list=https://raw.githubusercontent.com/shregobindji/c94855c79435c46f/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/shregobindji/c94855c79435c46f/refs/heads/master/github_master.m3u8
